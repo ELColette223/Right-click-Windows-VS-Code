@@ -1,7 +1,3 @@
-<br/>
-<p align="center">
-</p>
-
 ### Installation
 
 1. Download the "VS Code.reg"
