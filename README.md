@@ -1,2 +1,15 @@
-# Right-click-Windows-VS-Code
-Add "Open with VS Code", "Open Folder as VS Code Project" and "Open Folder as VS Code Project" with mouse right click
+<br/>
+<p align="center">
+</p>
+
+### Installation
+
+1. Download the "VS Code.reg"
+
+2. Edit the location of your VS Code in:
+
+```sh
+C:\\Users\\YOUR USER\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe
+```
+
+3. Save the changes and run.
